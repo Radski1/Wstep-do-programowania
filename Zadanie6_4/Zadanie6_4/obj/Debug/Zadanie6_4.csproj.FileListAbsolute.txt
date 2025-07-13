@@ -1,0 +1,7 @@
+C:\Users\konra\source\repos\Zadanie6_4\Zadanie6_4\bin\Debug\Zadanie6_4.exe.config
+C:\Users\konra\source\repos\Zadanie6_4\Zadanie6_4\bin\Debug\Zadanie6_4.exe
+C:\Users\konra\source\repos\Zadanie6_4\Zadanie6_4\bin\Debug\Zadanie6_4.pdb
+C:\Users\konra\source\repos\Zadanie6_4\Zadanie6_4\obj\Debug\Zadanie6_4.csproj.AssemblyReference.cache
+C:\Users\konra\source\repos\Zadanie6_4\Zadanie6_4\obj\Debug\Zadanie6_4.csproj.CoreCompileInputs.cache
+C:\Users\konra\source\repos\Zadanie6_4\Zadanie6_4\obj\Debug\Zadanie6_4.exe
+C:\Users\konra\source\repos\Zadanie6_4\Zadanie6_4\obj\Debug\Zadanie6_4.pdb
