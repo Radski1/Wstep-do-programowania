@@ -1,0 +1,7 @@
+C:\Users\konra\source\repos\ZadanieCWE\ZadanieCWE\bin\Debug\ZadanieCWE.exe.config
+C:\Users\konra\source\repos\ZadanieCWE\ZadanieCWE\bin\Debug\ZadanieCWE.exe
+C:\Users\konra\source\repos\ZadanieCWE\ZadanieCWE\bin\Debug\ZadanieCWE.pdb
+C:\Users\konra\source\repos\ZadanieCWE\ZadanieCWE\obj\Debug\ZadanieCWE.csproj.AssemblyReference.cache
+C:\Users\konra\source\repos\ZadanieCWE\ZadanieCWE\obj\Debug\ZadanieCWE.csproj.CoreCompileInputs.cache
+C:\Users\konra\source\repos\ZadanieCWE\ZadanieCWE\obj\Debug\ZadanieCWE.exe
+C:\Users\konra\source\repos\ZadanieCWE\ZadanieCWE\obj\Debug\ZadanieCWE.pdb
