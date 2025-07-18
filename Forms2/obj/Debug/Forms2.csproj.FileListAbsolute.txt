@@ -1,0 +1,11 @@
+C:\Users\konra\source\repos\MCForms\Forms2\bin\Debug\Forms2.exe.config
+C:\Users\konra\source\repos\MCForms\Forms2\bin\Debug\Forms2.exe
+C:\Users\konra\source\repos\MCForms\Forms2\bin\Debug\Forms2.pdb
+C:\Users\konra\source\repos\MCForms\Forms2\obj\Debug\Forms2.csproj.AssemblyReference.cache
+C:\Users\konra\source\repos\MCForms\Forms2\obj\Debug\Forms2.Form1.resources
+C:\Users\konra\source\repos\MCForms\Forms2\obj\Debug\Forms2.Properties.Resources.resources
+C:\Users\konra\source\repos\MCForms\Forms2\obj\Debug\Forms2.csproj.GenerateResource.cache
+C:\Users\konra\source\repos\MCForms\Forms2\obj\Debug\Forms2.csproj.CoreCompileInputs.cache
+C:\Users\konra\source\repos\MCForms\Forms2\obj\Debug\Forms2.exe
+C:\Users\konra\source\repos\MCForms\Forms2\obj\Debug\Forms2.pdb
+C:\Users\konra\source\repos\MCForms\Forms2\obj\Debug\Forms2.exe.config
