@@ -1,0 +1,11 @@
+C:\Users\konra\source\repos\MCForms\Forms3\bin\Debug\Forms3.exe.config
+C:\Users\konra\source\repos\MCForms\Forms3\bin\Debug\Forms3.exe
+C:\Users\konra\source\repos\MCForms\Forms3\bin\Debug\Forms3.pdb
+C:\Users\konra\source\repos\MCForms\Forms3\obj\Debug\Forms3.csproj.AssemblyReference.cache
+C:\Users\konra\source\repos\MCForms\Forms3\obj\Debug\Forms3.pozostalyCzas.resources
+C:\Users\konra\source\repos\MCForms\Forms3\obj\Debug\Forms3.Properties.Resources.resources
+C:\Users\konra\source\repos\MCForms\Forms3\obj\Debug\Forms3.csproj.GenerateResource.cache
+C:\Users\konra\source\repos\MCForms\Forms3\obj\Debug\Forms3.csproj.CoreCompileInputs.cache
+C:\Users\konra\source\repos\MCForms\Forms3\obj\Debug\Forms3.exe
+C:\Users\konra\source\repos\MCForms\Forms3\obj\Debug\Forms3.pdb
+C:\Users\konra\source\repos\MCForms\Forms3\obj\Debug\Forms3.exe.config

@@ -1,0 +1,11 @@
+C:\Users\konra\source\repos\MCForms\Forms4\obj\Debug\Forms4.csproj.AssemblyReference.cache
+C:\Users\konra\source\repos\MCForms\Forms4\obj\Debug\Forms4.Gra.resources
+C:\Users\konra\source\repos\MCForms\Forms4\obj\Debug\Forms4.Properties.Resources.resources
+C:\Users\konra\source\repos\MCForms\Forms4\obj\Debug\Forms4.csproj.GenerateResource.cache
+C:\Users\konra\source\repos\MCForms\Forms4\obj\Debug\Forms4.csproj.CoreCompileInputs.cache
+C:\Users\konra\source\repos\MCForms\Forms4\bin\Debug\Forms4.exe.config
+C:\Users\konra\source\repos\MCForms\Forms4\bin\Debug\Forms4.exe
+C:\Users\konra\source\repos\MCForms\Forms4\bin\Debug\Forms4.pdb
+C:\Users\konra\source\repos\MCForms\Forms4\obj\Debug\Forms4.exe
+C:\Users\konra\source\repos\MCForms\Forms4\obj\Debug\Forms4.pdb
+C:\Users\konra\source\repos\MCForms\Forms4\obj\Debug\Forms4.exe.config
