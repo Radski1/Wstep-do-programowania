@@ -1,0 +1,11 @@
+C:\Users\konra\source\repos\WazRzeczny\WazRzeczny\bin\Debug\WazRzeczny.exe.config
+C:\Users\konra\source\repos\WazRzeczny\WazRzeczny\bin\Debug\WazRzeczny.exe
+C:\Users\konra\source\repos\WazRzeczny\WazRzeczny\bin\Debug\WazRzeczny.pdb
+C:\Users\konra\source\repos\WazRzeczny\WazRzeczny\obj\Debug\WazRzeczny.csproj.AssemblyReference.cache
+C:\Users\konra\source\repos\WazRzeczny\WazRzeczny\obj\Debug\WazRzeczny.Form1.resources
+C:\Users\konra\source\repos\WazRzeczny\WazRzeczny\obj\Debug\WazRzeczny.Properties.Resources.resources
+C:\Users\konra\source\repos\WazRzeczny\WazRzeczny\obj\Debug\WazRzeczny.csproj.GenerateResource.cache
+C:\Users\konra\source\repos\WazRzeczny\WazRzeczny\obj\Debug\WazRzeczny.csproj.CoreCompileInputs.cache
+C:\Users\konra\source\repos\WazRzeczny\WazRzeczny\obj\Debug\WazRzeczny.exe
+C:\Users\konra\source\repos\WazRzeczny\WazRzeczny\obj\Debug\WazRzeczny.pdb
+C:\Users\konra\source\repos\WazRzeczny\WazRzeczny\obj\Debug\WazRzeczny.exe.config
